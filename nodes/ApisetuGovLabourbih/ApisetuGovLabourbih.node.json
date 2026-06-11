@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevApisetuGovLabourbih",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apisetu-gov-labourbih"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apisetu-gov-labourbih?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
